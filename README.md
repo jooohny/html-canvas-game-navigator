@@ -13,7 +13,7 @@ To run this project you need to have Node.js installed on your PC
 First, clone the repo via git:
 
 ```bash
-git clone git@github.com:jooohny/html-canvas-game-navigator.git
+git clone https://github.com/jooohny/html-canvas-game-navigator.git
 ```
 
 Enter the project folder you just downloaded
