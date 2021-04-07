@@ -47,3 +47,7 @@ Alternatively, you can build app and run `dist/index.html` by yourself.
 ```bash
 npm run build
 ```
+
+## Usage
+
+Click on upper input and use your arrows keys (🠜🠝🠞🠟) to move player arrow and Ctrl+A/Ctrl+D to turn to the left or to the right respectively.
